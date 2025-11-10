@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋 eu me chamo Ryan MIkhael</h1>
+<h1 align="left">Olá 👋 eu me chamo Ryan Mikhael</h1>
 
 ###
 
